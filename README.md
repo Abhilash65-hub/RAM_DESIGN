@@ -40,4 +40,4 @@ This project implements and tests a simple synchronous RAM (Random Access Memory
         
   #output
 
-  
+  ![Image](https://github.com/user-attachments/assets/682aac25-e373-4c6e-a577-68eb0876d4a0)
